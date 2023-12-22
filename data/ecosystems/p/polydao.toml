@@ -1,0 +1,25 @@
+# Ecosystem Level Information
+title = "PolyDao V4"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/smartcontractcodes"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/smartcontractcodes/polydao-v4-core/blob/main/contracts/NoDelegateCall.sol"
+
+[[repo]]
+url = "https://github.com/smartcontractcodes/polydao-v4-core/blob/main/contracts/interfaces/IERC20Minimal.sol"
+
+[[repo]]
+url = "https://github.com/smartcontractcodes/polydao-v4-core/blob/main/contracts/libraries/FixedPoint128.sol"
+
+[[repo]]
+url = "https://github.com/smartcontractcodes/polydao-v4-core/blob/main/contracts/libraries/Oracle.sol"
+
+[[repo]]
+url = "https://github.com/smartcontractcodes/polydao-v4-core/blob/main/contracts/libraries/SqrtPriceMath.sol"
+
+[[repo]]
+url = "https://github.com/smartcontractcodes/polydao-v4-core/blob/main/contracts/libraries/TransferHelper.sol"
